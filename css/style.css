@@ -200,7 +200,7 @@ header .container .social i:hover {
 /* end header style */
 /* start hero style */
 .hero {
-    background-image: url('../images/background-img.jpg');
+    background-image: url('/images/background-img.jpg');
     background-repeat: no-repeat;
     background-size:100% 100% ;
     /* height: calc(100vh - 60px); */
@@ -503,7 +503,7 @@ header .container .social i:hover {
 /* start statistcs style */
 .statistcs {
     padding: 70px 0;
-    background-image: url(/images/background-image.jpg);
+    background-image: url('/images/background-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -997,7 +997,7 @@ footer {
     padding-top: 70px ;
     padding-bottom: 40px ;
     background-color: #4b2e19;
-    background-image: url('../images/footer-image.avif');
+    background-image: url('/images/footer-image.avif');
     background-repeat: no-repeat;
     background-position:center ;
     background-size: cover;
