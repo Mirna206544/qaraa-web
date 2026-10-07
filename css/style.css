@@ -142,6 +142,7 @@ header .container nav ul li a:hover {
 .container .social {
     display: flex;
     justify-content: space-between;
+    margin-right: 30px;
 }
 header .container .social i {
     margin: 5px;
